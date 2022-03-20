@@ -2,9 +2,14 @@
 
 ## Description
 This package has made possible:
-* Easily connecting to any Websocket endpoint
+* Easily connecting to any Tiingo Websocket endpoint
 * Reconnecting (both after server-side restarts or client-side network problems)
 * Get feedback from the Websocket session with the endpoint (using the _verbose_ parameter)
+
+## Installation
+```bash
+npm i tiingo-stream
+```
 
 ## Getting started
 
