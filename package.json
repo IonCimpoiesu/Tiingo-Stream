@@ -1,0 +1,30 @@
+{
+  "name": "tiingo-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tiingo-stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonCimpoiesu/Tiingo-Stream.git"
+  },
+  "keywords": [
+    "Tiingo",
+    "Tiingo-Top",
+    "Tick",
+    "Feed",
+    "Stream",
+    "Market",
+    "Data",
+    "Finance",
+    "Financial"
+  ],
+  "author": "Ion Cimpoiesu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IonCimpoiesu/Tiingo-Stream/issues"
+  },
+  "homepage": "https://github.com/IonCimpoiesu/Tiingo-Stream#readme"
+}
